@@ -1,0 +1,39 @@
+HIC SUNT MAGISTRI – PWA PER GITHUB PAGES
+
+FILE DA CARICARE NEL REPOSITORY:
+- index.html
+- manifest.webmanifest
+- sw.js
+- cartella icons con:
+  - icon-64.png
+  - icon-192.png
+  - icon-512.png
+  - icon-maskable-512.png
+  - apple-touch-icon.png
+
+IMPORTANTE SU GITHUB:
+La cartella "icons" va creata nel repository e poi vanno caricati AL SUO INTERNO
+i singoli file delle icone. Non trascinare la cartella icons come se fosse un file.
+
+PUBBLICAZIONE:
+1. Crea/apri il repository.
+2. Carica index.html, manifest.webmanifest e sw.js nella radice.
+3. Crea la cartella icons.
+4. Apri icons e carica i 5 file PNG.
+5. Vai in Settings > Pages.
+6. In Build and deployment scegli Deploy from a branch.
+7. Seleziona main e /(root), quindi Save.
+8. Attendi la comparsa del link GitHub Pages.
+
+INSTALLAZIONE:
+ANDROID / CHROME
+- Apri il link GitHub Pages.
+- Menu del browser > Aggiungi alla schermata Home / Installa app.
+
+IPHONE / SAFARI
+- Apri il link in Safari.
+- Tocca Condividi.
+- Scegli Aggiungi alla schermata Home.
+- Conferma.
+
+La campanella MP3 è già incorporata dentro index.html: NON va caricata separatamente.
