@@ -3,7 +3,7 @@
   "short_name": "Hic Sunt Magistri",
   "description": "Party game di deduzione e ruoli segreti a tema scolastico.",
   "lang": "it-IT",
-  "id": "./",
+  "id": "/hic-sunt-magistri/",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
